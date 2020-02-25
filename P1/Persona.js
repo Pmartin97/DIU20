@@ -35,7 +35,7 @@ angular.module("angular", [])
 				Occupation: "Conductor de camiones",
 				Family: "Con pareja desde hace 10 años",
 				Location: "Granada (Polopos)",
-				Character: "Le gusta jugar al League of Legends",
+				Character: "Le gusta jugar al League of Legends", "Probar comida nueva", 
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
@@ -52,7 +52,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "En las próximas vacaciones que tenga quiere organizar un viaje con su familia.",  
+                Contextos: "En las próximas vacaciones que tenga quiere organizar un viaje con su familia y comer cosas nuevas",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
 					{ Name: "Online & Social Media", Value: 2 },
