@@ -88,54 +88,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Anabel Martín",
                 Photo: "woman.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
+                goal1: "Quiere preparar una comida especial junto a su pareja para el día de los enamorados",
+                touch1: "Agenda",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                con1: "Tiene que ser para el día 14 de febrero.",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                goal2: "Busca en internet una página de cenas especiales",
+                touch2: "Ordenador",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                con2: "Tiene que escoger de un montón de sitios recomendados por el buscador.",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
+                goal3: "Entra al sitio web 'eatwith' para buscar una experiencia culinaria nueva.",
+                touch3: "Ordenador",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                con3: "La página responde muy lento.",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
+                goal4: "No encuentra ninguna oferta libre",
+                touch4: "Ordenador (webapp)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                con4: "Piensa que ha perdido el tiempo",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Busca otro sitio web donde realizar la reserva.",
+                touch5: "Ordenador (webapp)",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                con5: "En varios sitios no quedan reservas disponibles",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
+                goal6: "Consiguie reservar pero no para la que esperaba.",
                 touch6: "Ordenador (reserva OK)",
                 feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
+                con6: "Tendrá que conformarse por haber encontrado una reserva.",
                 ima6: "cartoon-PChard.png",
                 
                 
