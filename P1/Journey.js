@@ -30,7 +30,7 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Juan Lopez",
+				Name: "Darío Noxus",
                 Photo: "man.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
