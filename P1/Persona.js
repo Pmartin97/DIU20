@@ -35,7 +35,7 @@ angular.module("angular", [])
 				Occupation: "Conductor de camiones",
 				Family: "Con pareja desde hace 10 años",
 				Location: "Granada (Polopos)",
-				Character: "Le gusta jugar al League of Legends", "Probar comida nueva", 
+				Character: "Le gusta jugar al League of Legends y Probar comida nueva", 
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
