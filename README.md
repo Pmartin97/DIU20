@@ -36,6 +36,10 @@ Las apliaciones e compartir ocio permiten al usuario vivir nuevas experiencias c
 -----
 
 Hemos elegido a Darío y Anabel ya que son personas corrientes y son el tipo de usuario novatos que pueden tener problemas al navegar en las aplicaciones.
+Darío
+![img](https://i.imgur.com/pq4bFX9.png)
+Anabel
+![img](https://i.imgur.com/UGXEXdY.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
