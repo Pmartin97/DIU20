@@ -34,7 +34,7 @@ angular.module("angular", [])
                 Photo: "man.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
+                goal1: "Como amante gastronómico, desea descubrir nuevos platos junto a alguien",
                 touch1: "agenda",
                 feel1: "4",
                 con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
@@ -88,7 +88,7 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Anabel Martín",
+				Name: "Monica Suarez",
                 Photo: "woman.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
