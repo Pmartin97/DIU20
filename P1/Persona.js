@@ -84,21 +84,21 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
 				Goals: ["Ayudar a todos sus pacientes a curarse", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Frustrations: ["La monotonía y la repetitividad del día a día", "Que la tecnología funcione mal"],
+				Bio: "Amante de la salud y la condición física, odio los estereotipos físicos. El valor de una persona viene dado por su salud, no por su estética.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "RRSS", Value: 5 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
                 Contextos:   "The goals this user hopes to achieve." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
+					{ Name: "Publicidad Tradicional (Ads)", Value: 4 },
 					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
 		];
