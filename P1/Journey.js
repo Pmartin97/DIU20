@@ -103,15 +103,15 @@ angular.module("angular", [])
                 touch2: "Ordenador",
                 feel2: "4",
                 con2: "Tiene que escoger de un montón de sitios recomendados por el buscador.",
-                ima2: "cartoon-teamthinking.png",
+                ima2: "cartoon-PChappy.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
                 goal3: "Entra al sitio web 'eatwith' para buscar una experiencia culinaria nueva.",
                 touch3: "Ordenador",
-                feel3: "2",
+                feel3: "4",
                 con3: "La página responde muy lento.",
-                ima3: "cartoon-phoningangry.png",
+                ima3: "cartoon-PCtyping.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
@@ -119,7 +119,7 @@ angular.module("angular", [])
                 touch4: "Ordenador (webapp)",
                 feel4: "2",
                 con4: "Piensa que ha perdido el tiempo",
-                ima4: "cartoon-phone-street.png",
+                ima4: "cartoon-PChard.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
@@ -127,7 +127,7 @@ angular.module("angular", [])
                 touch5: "Ordenador (webapp)",
                 feel5: "3",
                 con5: "En varios sitios no quedan reservas disponibles",
-                ima5: "cartoon-phone-sitting.png",
+                ima5: "cartoon-thinking.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
@@ -136,7 +136,7 @@ angular.module("angular", [])
                 touch6: "Ordenador (reserva OK)",
                 feel6: "2",
                 con6: "Tendrá que conformarse por haber encontrado una reserva.",
-                ima6: "cartoon-PChard.png",
+                ima6: "cartoon-sad.png",
                 
                 
                 
