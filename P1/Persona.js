@@ -69,7 +69,7 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Anavel Martín",
+				Name: "Anabel Martín",
 				Photo: "woman.png",
 				Quote: "La única persona que puede vencerme, soy yo misma.",
 				Age: 29,
