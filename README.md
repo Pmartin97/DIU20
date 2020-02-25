@@ -30,18 +30,17 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Las apliaciones e compartir ocio permiten al usuario vivir nuevas experiencias con otros usuarios con los mismos gustos, en nuestro caso hemos elegido la aplicación "eatwith" en la que puedes tener una experiencia culinaria, ya sea tours de comida, clases de cocina o alguna experiencia gastronómica.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos elegido a Darío y Anabel ya que son personas corrientes y son el tipo de usuario novatos que pueden tener problemas al navegar en las aplicaciones.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Se ha escogido un caso esporádico y otro programado para poder analizar en ambos casos la experiencia del usuario.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
