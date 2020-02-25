@@ -35,49 +35,49 @@ angular.module("angular", [])
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Como amante gastronómico, desea descubrir nuevos platos junto a alguien",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
+                touch1: "Agenda",
+                feel1: "3",
+                con1: "Como conductor de camiones, tiene pocos das libres, debe comprobar cuántos tiene ",
                 ima1: "cartoon-planning.png",
 				
-                /*** PASO #2: DECICION ***/ 
+                /*** PASO #2: DECISION ***/ 
                 goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "ordenador",
+                touch2: "Ordenador",
                 feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                con2: "Hay pocas fechas que puede elegir y los precios son algo elevados",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                goal3: "Decide comer en un restaurante japonés en Granada",
+                touch3: "Ordenador",
+                feel3: "2",
+                con3: "En el centro de la ciudad es muy complicado aparcar y hay mucho tráfico",
+                ima3: "cartoon-PCangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
+                goal4: "Los amigos le recomiendan párkings a bajo coste cerca del establecimiento",
+                touch4: "Ordenador",
+                feel4: "5",
+                con4: "Preocupa el tráfico y que el párking no esté lleno al llegar",
                 ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
+                goal5: "Los domingos a mediodía no hay tanto tráfico y puede aparcar fácil",
+                touch5: "móvil (google maps)",
+                feel5: "4",
+                con5: "Debe reservar rápido antes de que se agoten las plazas",
                 ima5: "cartoon-phoning.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                goal6: "Consigue reservar mesa, qué ganas de comer sushi!",
+                touch6: "Ordenador",
+                feel6: "5",
+                con6: "En caso de cancelación y reembolso, debe hacerse 24h antes de la cena.",
                 ima6: "cartoon-resting.png",
                 
 			},
