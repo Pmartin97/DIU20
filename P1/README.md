@@ -41,7 +41,7 @@ La aplicación eatwith proporciona experiencias culinarias, de entre ellas comid
 # Análisis personal:
 
 ## Darío
-Se ha escogido a Darío debido a tener el perfil de un usuario maduro y torpe con la tecnología.
+Se ha escogido a Darío debido a tener el perfil de un usuario maduro pero torpe con la tecnología. Le gusta viajar, desde siempre lo hizo a través de agencias de viajes pero hace poco descubrió que por Internet le puede salir más barato, el problema es su poca experiencia con los ordenadores.
 
 
 ## Anabel
