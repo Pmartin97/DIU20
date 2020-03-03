@@ -42,8 +42,8 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
-				Goals: ["Ir al gimnasio a ponerse fuerte", "Visitar el mayor número de países del mundo"],
-				Frustrations: ["Se lleva mal con la tecnología, odia perder casos en juicios"],
+				Goals: ["Ir al gimnasio a ponerse fuerte", "Visitar el mayor número de países del mundo", "Probar nuevos platos cada mes", "Comprarse un Tesla", "Que su hijo siga sus pasos como abogado, pero respetará si decide estudiar otra cosa"],
+				Frustrations: ["Se lleva mal con la tecnología", "Odia perder casos en juicios", "Pierde los nervios con el tráfico", "Pocos días libres al mes por culpa del trabajo", "Suele perderse los eventos escolares de su hijo"],
 				Bio: "Nació en Armilla, desde siempre quiso ser Abogado, sueño que cumplió al terminar la carrera de Derecho, buscó una casa cerca de la casa de sus padres en Armilla para poder tenerlos cerca. Su mujer actual la conoció en la carrera y tienen un hijo en común de 10 años. Le gusta viajar a distintos países y probar la comida típica de dicho país",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
