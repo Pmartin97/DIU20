@@ -24,6 +24,8 @@ Se ha escogido un caso esporádico en el caso de Darío el cual tiene problemas 
 
 ## Darío
 
+JourneyMapDario.png
+
 ## Anabel
 
 # Usability review
