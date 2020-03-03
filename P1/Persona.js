@@ -28,23 +28,23 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Dario Noxus",
+				Name: "Darío Noxus",
 				Photo: "man.png",
 				Quote: "¡Luchen, sangren, no cedan ante la debilidad",
 				Age: 40,
-				Occupation: "Conductor de camiones",
-				Family: "Con pareja desde hace 10 años",
-				Location: "Granada (Polopos)",
-				Character: "Le gusta jugar al League of Legends y Probar comida nueva", 
+				Occupation: "Abogado",
+				Family: "Casado desde hace 15 años y con 1 hijo de 10 años",
+				Location: "Granada (Armilla)",
+				Character: "Amable, empático, se frustra con facilidad, odia la política y las tecnologías", 
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
-				Goals: ["Ir al gimnasio a ponerse fuerte", "Cambiar a un trabajo que tenga más tiempo libre"],
-				Frustrations: ["Pasar muchas horas en carretera y ver poco a la familia"],
-				Bio: "Nació en Polopos y desde siempre quiso seguir los pasos de su padre como conductor de camiones, objetivo que ha podido cumplir pero le ha decepcionado al cabo de los años",
+				Goals: ["Ir al gimnasio a ponerse fuerte", "Visitar el mayor número de países del mundo"],
+				Frustrations: ["Se lleva mal con la tecnología, odia perder casos de juicios"],
+				Bio: "Nació en Armilla, desde siempre quiso ser Abogado, sueño que cumplió al terminar la carrera de Derecho, buscó una casa cerca de la casa de sus padres en Armilla para poder tenerlos cerca. Su mujer actual la conoció en la carrera y tienen un hijo en común de 10 años. Le gusta viajar a distintos países y probar la comida típica de dicho país",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Movil", Value: 4 },
@@ -52,7 +52,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "En las próximas vacaciones que tenga quiere organizar un viaje con su familia y comer cosas nuevas",  
+                Contextos: "Próximamente tendrá varios días libres, quiere aprovecharlos para viajar a alguna ciudad para visitarla y degustar comida típica",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
 					{ Name: "Online & Social Media", Value: 2 },
