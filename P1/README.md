@@ -30,6 +30,8 @@ Se ha escogido un caso esporádico en el caso de Darío el cual tiene problemas 
 
 ## Anabel
 
+![Método UX](photos/historia_Anabel.png)
+
 # Usability review
 
 
