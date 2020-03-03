@@ -99,7 +99,7 @@ angular.module("angular", [])
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet una página de cenas especiales",
+                goal2: "Busca en internet una página para la cena",
                 touch2: "Ordenador",
                 feel2: "4",
                 con2: "Tiene que escoger de un montón de sitios recomendados por el buscador.",
@@ -107,7 +107,7 @@ angular.module("angular", [])
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Entra al sitio web 'eatwith' para buscar una experiencia culinaria nueva.",
+                goal3: "Entra al sitio web 'eatwith' para buscar alguna cena de su gusto.",
                 touch3: "Ordenador",
                 feel3: "4",
                 con3: "La página responde muy lento.",
@@ -115,7 +115,7 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "No encuentra ninguna oferta libre",
+                goal4: "No encuentra ninguna oferta libre porque no hay anfitriones en Granada",
                 touch4: "Ordenador (webapp)",
                 feel4: "2",
                 con4: "Piensa que ha perdido el tiempo",
@@ -132,10 +132,10 @@ angular.module("angular", [])
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar pero no para la que esperaba.",
+                goal6: "Consiguie reservar en un restaurante por recomendación de una amiga.",
                 touch6: "Ordenador (reserva OK)",
                 feel6: "2",
-                con6: "Tendrá que conformarse por haber encontrado una reserva.",
+                con6: "Al final no ha obtenido ayuda de la página, si no de una recomendación de una amiga.",
                 ima6: "cartoon-sad.png",
                 
                 
