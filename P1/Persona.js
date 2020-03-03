@@ -83,8 +83,8 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["Ayudar a todos sus pacientes a curarse", "Afán de superación"],
-				Frustrations: ["La monotonía y la repetitividad del día a día", "Que la tecnología funcione mal", "No poder hacer deporte por una lesión"],
+				Goals: ["Ayudar a todos sus pacientes a curarse", "Afán de superación", "Sacarse el carné de moto porque no se puede aparcar en el centro", "Plantar flores de varios colores en su jardín", "Comprarse un móvil nuevo porque el suyo funciona mal" ],
+				Frustrations: ["La monotonía y la repetitividad del día a día", "Que la tecnología funcione mal o lento", "No poder hacer deporte por una lesión", "El agobio de los atascos y el ruido", "Aunque le guste su trabajo, no tener tanto tiempo para quedar con sus amigos"],
 				Bio: "Amante de la salud y la condición física, odio los estereotipos físicos. El valor de una persona viene dado por su salud, no por su estética. Soy fisioterapeuta en el Virgen de las Nieves desde hace tres años. Tengo pareja estable y nos encanta hacer excursiones al campo",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
