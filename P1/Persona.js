@@ -35,7 +35,7 @@ angular.module("angular", [])
 				Occupation: "Abogado",
 				Family: "Casado desde hace 15 años y con 1 hijo de 10 años",
 				Location: "Granada (Armilla)",
-				Character: "Amable, empático, se frustra con facilidad, odia la política y las tecnologías", 
+				Character: "Amable, empático, familiar y tradicional. Se frustra con facilidad con la tecnología, odia la política", 
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
@@ -43,7 +43,7 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
 				Goals: ["Ir al gimnasio a ponerse fuerte", "Visitar el mayor número de países del mundo"],
-				Frustrations: ["Se lleva mal con la tecnología, odia perder casos de juicios"],
+				Frustrations: ["Se lleva mal con la tecnología, odia perder casos en juicios"],
 				Bio: "Nació en Armilla, desde siempre quiso ser Abogado, sueño que cumplió al terminar la carrera de Derecho, buscó una casa cerca de la casa de sus padres en Armilla para poder tenerlos cerca. Su mujer actual la conoció en la carrera y tienen un hijo en común de 10 años. Le gusta viajar a distintos países y probar la comida típica de dicho país",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
