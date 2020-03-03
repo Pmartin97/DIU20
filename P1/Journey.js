@@ -36,7 +36,7 @@ angular.module("angular", [])
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Como amante gastronómico, desea descubrir nuevos platos típicos junto a su familia",
                 touch1: "Agenda",
-                feel1: "2",
+                feel1: "4",
                 con1: "Debe esperar a tener los días libres",
                 ima1: "cartoon-planning.png",
 				
@@ -67,7 +67,7 @@ angular.module("angular", [])
                 
                 goal5: "Darío mira en su agenda a ver si puede cambiar uno de sus das libres",
                 touch5: "Móvil",
-                feel5: "3",
+                feel5: "2",
                 con5: "No puede ya que tiene reuniones con otros clientes",
                 ima5: "cartoon-phoning.png",
                 
@@ -76,7 +76,7 @@ angular.module("angular", [])
                 
                 goal6: "Al final reserva una experiencia culinaria mexicana en Granada ya que es la única oferta con plazas en sus dias libres",
                 touch6: "Ordenador",
-                feel6: "5",
+                feel6: "1",
                 con6: "En caso de cancelación y reembolso, debe hacerse 24h antes de la cena y solo por Internet.",
                 ima6: "cartoon-resting.png",
                 
