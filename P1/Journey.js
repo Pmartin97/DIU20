@@ -61,15 +61,15 @@ angular.module("angular", [])
                 touch4: "Ordenador",
                 feel4: "1",
                 con4: "Hay pocas fechas que puede elegir ya que están reservadas",
-                ima4: "cartoon-PCtyping.png",
+                ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Darío mira en su agenda a ver si puede cambiar uno de sus das libres",
+                goal5: "Darío mira en la agenda de su móvil a ver si puede cambiar uno de sus das libres",
                 touch5: "Móvil",
                 feel5: "2",
                 con5: "No puede ya que tiene reuniones con otros clientes",
-                ima5: "cartoon-phoning.png",
+                ima5: "cartoon-phoningangry.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
@@ -78,7 +78,7 @@ angular.module("angular", [])
                 touch6: "Ordenador",
                 feel6: "1",
                 con6: "En caso de cancelación y reembolso, debe hacerse 24h antes de la cena y solo por Internet.",
-                ima6: "cartoon-resting.png",
+                ima6: "cartoon-sad.png",
                 
 			},
 			{	
