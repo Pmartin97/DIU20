@@ -75,28 +75,28 @@ angular.module("angular", [])
 				Age: 29,
 				Occupation: "Fisioterapéutica",
 				Family: "Cuatro hermanas.",
-				Location: "Villa Esquerosa",
-				Character: "Adaptable, calmada y confiable.",
+				Location: "Valderrubio",
+				Character: "Adaptable, extrovertida y risueña.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["Ayudar a todos sus pacientes a curarse", "An experience to be felt."],
-				Frustrations: ["La monotonía y la repetitividad del día a día", "Que la tecnología funcione mal"],
-				Bio: "Amante de la salud y la condición física, odio los estereotipos físicos. El valor de una persona viene dado por su salud, no por su estética.",
+				Goals: ["Ayudar a todos sus pacientes a curarse", "Afán de superación"],
+				Frustrations: ["La monotonía y la repetitividad del día a día", "Que la tecnología funcione mal", "No poder hacer deporte por una lesión"],
+				Bio: "Amante de la salud y la condición física, odio los estereotipos físicos. El valor de una persona viene dado por su salud, no por su estética. Soy fisioterapeuta en el Virgen de las Nieves desde hace tres años. Tengo pareja estable y nos encanta hacer excursiones al campo",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
+					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Mobile", Value: 3 },
 					{ Name: "RRSS", Value: 5 },
-					{ Name: "Software", Value: 1 }
+					{ Name: "Software", Value: 5 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Se acerca el 14 de febrero, el día de los enamorados y quiere darle una sorpresa a su pareja con una cena romántica." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 4 },
-					{ Name: "Online & Social Media", Value: 2 },
+					{ Name: "Online & Social Media", Value: 3 },
 					{ Name: "Recomendaciones & sugerencias", Value: 3 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
