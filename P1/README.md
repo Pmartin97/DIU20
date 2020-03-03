@@ -24,7 +24,7 @@ Se ha escogido un caso esporádico en el caso de Darío el cual tiene problemas 
 
 ## Darío
 
-![Método UX](photo/JourneyMapDario.png)
+![Método UX](photos/JourneyMapDario.png)
 
 ## Anabel
 
