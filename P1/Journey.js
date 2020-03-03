@@ -34,17 +34,17 @@ angular.module("angular", [])
                 Photo: "man.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Como amante gastronómico, desea descubrir nuevos platos junto a alguien",
+                goal1: "Como amante gastronómico, desea descubrir nuevos platos típicos junto a su familia",
                 touch1: "Agenda",
-                feel1: "3",
-                con1: "Como conductor de camiones, tiene pocos das libres, debe comprobar cuántos tiene ",
+                feel1: "2",
+                con1: "Debe esperar a tener los días libres",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECISION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
+                goal2: "Busca en EatWith experiencias culinarias interesantes",
                 touch2: "Ordenador",
                 feel2: "2",
-                con2: "Hay pocas fechas que puede elegir y los precios son algo elevados",
+                con2: "La interfaz es algo liosa y no sabe por dónde empezar a buscar",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
@@ -52,32 +52,32 @@ angular.module("angular", [])
                 goal3: "Decide comer en un restaurante japonés en Granada",
                 touch3: "Ordenador",
                 feel3: "2",
-                con3: "En el centro de la ciudad es muy complicado aparcar y hay mucho tráfico",
+                con3: "Las ofertas son algo caras y escasas en las fechas en que Darío puede ir",
                 ima3: "cartoon-PCangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan párkings a bajo coste cerca del establecimiento",
+                goal4: "Busca restaurantes japoneses en Granada",
                 touch4: "Ordenador",
-                feel4: "5",
-                con4: "Preocupa el tráfico y que el párking no esté lleno al llegar",
+                feel4: "1",
+                con4: "Hay pocas fechas que puede elegir ya que están reservadas",
                 ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Los domingos a mediodía no hay tanto tráfico y puede aparcar fácil",
-                touch5: "móvil (google maps)",
-                feel5: "4",
-                con5: "Debe reservar rápido antes de que se agoten las plazas",
+                goal5: "Darío mira en su agenda a ver si puede cambiar uno de sus das libres",
+                touch5: "Móvil",
+                feel5: "3",
+                con5: "No puede ya que tiene reuniones con otros clientes",
                 ima5: "cartoon-phoning.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar mesa, qué ganas de comer sushi!",
+                goal6: "Al final reserva en un mexicano ya que es la única oferta con plazas en sus dias libres",
                 touch6: "Ordenador",
                 feel6: "5",
-                con6: "En caso de cancelación y reembolso, debe hacerse 24h antes de la cena.",
+                con6: "En caso de cancelación y reembolso, debe hacerse 24h antes de la cena y solo por Internet.",
                 ima6: "cartoon-resting.png",
                 
 			},
