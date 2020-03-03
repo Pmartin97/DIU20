@@ -57,7 +57,7 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca restaurantes japoneses en Granada",
+                goal4: "Busca experiencias culinarias japonesas en Granada",
                 touch4: "Ordenador",
                 feel4: "1",
                 con4: "Hay pocas fechas que puede elegir ya que están reservadas",
@@ -74,7 +74,7 @@ angular.module("angular", [])
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Al final reserva en un mexicano ya que es la única oferta con plazas en sus dias libres",
+                goal6: "Al final reserva una experiencia culinaria mexicana en Granada ya que es la única oferta con plazas en sus dias libres",
                 touch6: "Ordenador",
                 feel6: "5",
                 con6: "En caso de cancelación y reembolso, debe hacerse 24h antes de la cena y solo por Internet.",
