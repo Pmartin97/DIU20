@@ -100,6 +100,41 @@ angular.module("angular", [])
 					{ Name: "Recomendaciones & sugerencias", Value: 3 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
+			},
+			
+			
+			Id: 0,
+				Name: "Alberto Fernández",
+				Photo: "man.png",
+				Quote: "El esfuerzo siempre tiene su recompensa",
+				Age: 28,
+				Occupation: "Profesor de Universidad",
+				Family: "Casado desde hace 2 años",
+				Location: "Granada (Chana)",
+				Character: "Simpático, temperamental y constante.", 
+				PersonalityTraits: [
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
+				], 
+				Goals: ["Que el año que viene no suspenda ningún alumno", "Realizar un viaje a Italia", "Aprender a cocinar", "En un futuro, tener dos hijas y un hijo"],
+				Frustrations: ["El ruido del tráfico", "El poco entusiasmo de muchos alumnos", "No mejorar físicamente, cuando va al gimnasio", "Que se le olviden las cosas"],
+				Bio: "Nació en Valencia, en Alicante. Desde siempre quiso ser Informático, así que estudió la carrera de Ingienería Informática en Granada. Al terminar los estudios quiso centrar su carrera en investigación y en la enseñanza. Lleva 5 años impartiendo clases y está contento de su trabajo actual. Está casado con María Martínez, a quien conoció en una conferencia de ciberseguridad.",
+				Tech: [
+					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "Movil", Value: 4 },
+					{ Name: "RRSS", Value: 3 },
+					{ Name: "Software", Value: 4 }
+					
+				], 
+                Contextos: "En el despacho que tiene hay problemas  eléctricos y necesita un sitio donde pueda trabajar tranquilamente.",  
+				PreferredChannels: [
+					{ Name: "Publicidad Tradicional", Value: 2 },
+					{ Name: "Online & Social Media", Value: 3 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
+				]
 			}
 		];
 		$scope.model = $scope.Personas[0];
